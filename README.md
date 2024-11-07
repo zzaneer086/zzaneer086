@@ -25,15 +25,20 @@
 </div>
 
 
-  
+<!-- contacts under about me -->  
 <div id="badges">
   <a href="https://www.linkedin.com/in/zzaneer086">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="zzaneer086@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 <div/>
 
 ---
 
+
+<!-- TECH STACK -->
 <h2>tech stack 🥞</h2>
 
 <table><tr><td valign="top" width="25%">
@@ -66,12 +71,31 @@
   
 <h3 align="center">others</h3>
 <div align="center">
-       
+
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+  
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 </a>
 </td>
 </tr></table>
 
 
+<!-- STATS -->
 
+
+<h3 align="center">the stats</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/zzaneer086">
+</p>
+<p align="left">
+  <img align="center" src="https://leetcard.jacoblin.cool/zzaneer086?ext=heatmap"/>
+</p>
+* disclamer : full-time student. down in the trenches. any grass is good grass.
 
