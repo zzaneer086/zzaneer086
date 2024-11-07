@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./zzaneer_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./zzaneer_light.gif">
+</picture>
+
+
 ### Hi everyone, Zainab here 😸
 
 ---
