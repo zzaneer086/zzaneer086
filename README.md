@@ -112,10 +112,65 @@
   <img align="center" src="https://leetcard.jacoblin.cool/zzaneer086?ext=heatmap"/>
   <img src="april_grass.gif" height="150px">
 </p>
-* disclamer : full-time student. down in the trenches. any grass is good grass.
+* disclamer : full-time student. any grass is good grass. <3
 
 
+<h1></h1>
+
+
+<!-- FEATURED REPOS  -->
+
+<!-- banner gif generated from : https://willkessler.github.io/typed-text-gif-maker/ -->
+<!-- font Ubuntu, size 70, 100 speed, 1700 time  -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./featured_dark.gif">
   <img src="./featured_light.gif">
 </picture>
+
+<table><tr><td valign="top" width="25%">
+  <h3 align="center">Predictive ML Models for Surprise Gift Optimization in Customer Spending</h3>
+  <div align="center">
+    <a href="https://github.com/s-bhatia1216/esteelauder1b">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatia1216&repo=esteelauder1b" />
+        </a>
+  
+  </div>
+  </a>
+ </td><td valign="top" width="25%">
+        
+<h3 align="center">Mnemo: a flashcard Saas app</h3>
+<a href="https://github.com/NickGroveSE/Mnemo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NickGroveSE&repo=Mnemo" />
+        </a>
+
+<div align="center">
+
+</div>
+</a>
+
+</td>
+</tr></table>
+
+<table><tr><td valign="top" width="25%">
+  <h3 align="center">Customer Support AI Chatbot</h3>
+  <div align="center">
+    <a href="https://github.com/zzaneer086/AI-Customer-Support">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzaneer086&repo=AI-Customer-Support" />
+        </a>
+  
+  </div>
+  </a>
+ </td><td valign="top" width="25%">
+        
+<h3 align="center">A Touch of Green</h3>
+<a href="https://github.com/zzaneer086/A-Touch-of-Green">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzaneer086&repo=A-Touch-of-Green" />
+        </a>
+
+<div align="center">
+
+</div>
+</a>
+
+</td>
+</tr></table>
