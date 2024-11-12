@@ -1,4 +1,6 @@
 <!-- banner gif generated from : https://willkessler.github.io/typed-text-gif-maker/ -->
+<!-- font Ubuntu, size 100, 100 speed, 1500 time  -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./zzaneer_dark.gif">
   <img src="./zzaneer_light.gif">
@@ -112,3 +114,8 @@
 </p>
 * disclamer : full-time student. down in the trenches. any grass is good grass.
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./featured_dark.gif">
+  <img src="./featured_light.gif">
+</picture>
