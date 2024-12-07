@@ -130,7 +130,7 @@
 <table><tr><td valign="top" width="25%">
   <h3 align="center">Predictive ML Models for Surprise Gift Optimization in Customer Spending (currently under review)</h3>
   <div align="center">
-    <a href="https://github.com/s-bhatia1216/esteelauder1b">
+    <a href="https://github.com/zzaneer086/Unwrapping-Customer-Delight">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatia1216&repo=esteelauder1b" />
         </a>
   
