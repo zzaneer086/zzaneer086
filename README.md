@@ -100,24 +100,7 @@
   </a>
 </div>
 
-
-<!-- STATS -->
-
-
-<h3 align="center">the stats</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/zzaneer086">
-</p>
-<p align="left">
-  <img align="center" src="https://leetcard.jacoblin.cool/zzaneer086?ext=heatmap"/>
-  <img src="april_grass.gif" height="150px">
-</p>
-* disclamer : full-time student. any grass is good grass. <3
-
-
-<h1></h1>
-
-
+---
 <!-- FEATURED REPOS  -->
 
 <!-- banner gif generated from : https://willkessler.github.io/typed-text-gif-maker/ -->
@@ -174,3 +157,22 @@
 
 </td>
 </tr></table>
+
+
+<!-- STATS -->
+
+
+<h3 align="center">the stats</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/zzaneer086">
+</p>
+<p align="left">
+  <img align="center" src="https://leetcard.jacoblin.cool/zzaneer086?ext=heatmap"/>
+  <img src="april_grass.gif" height="150px">
+</p>
+
+
+<h1></h1>
+
+
+
