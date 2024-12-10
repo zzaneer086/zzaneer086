@@ -112,7 +112,7 @@
   <img src="./featured_light.gif">
 </picture>
 
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
   <h3 align="center">Predictive ML Models for Surprise Gift Optimization in Customer Spending </h3>
   <div align="center">
     <a href="https://github.com/zzaneer086/Unwrapping-Customer-Delight">
@@ -136,7 +136,7 @@
 </td>
 </tr></table>
 
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
   <h3 align="center">Customer Support AI Chatbot</h3>
   <div align="center">
     <a href="https://github.com/zzaneer086/AI-Customer-Support">
