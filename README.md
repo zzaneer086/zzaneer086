@@ -16,7 +16,9 @@
     <h2>about me:</h2>
     <ul>
       <li>👷‍♀️ This page is currently under construction!</li>
-      <li>💼 Computer Science Student @ UIC</li>
+      <li>💼 Computer Science Student @ UIC, to graduate in Spring '26</li>
+      <li>👩‍💻 Always searching for oppurtunities and internship/co-ops in tech</li>
+      <li>🤖 Currently exploring AI/ML, explore my repos below!</li>
       <li>👾 Check out my LinkedIn!</li>
     </ul>
   </div>
