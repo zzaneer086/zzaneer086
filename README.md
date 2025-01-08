@@ -164,14 +164,19 @@
 <!-- STATS -->
 
 
-<h3 align="center">the stats</h3>
+<h2 align="center">the stats 🌱</h2>
 <p align="center">
   <img src="https://ghchart.rshah.org/zzaneer086">
 </p>
-<p align="left">
-  <img align="center" src="https://leetcard.jacoblin.cool/zzaneer086?ext=heatmap"/>
-  <img src="april_grass.gif" height="150px">
-</p>
+
+<div align="center">
+  <a href="">
+    <img height=250 align="center" src="https://leetcard.jacoblin.cool/zzaneer086?ext=heatmap"  />
+  </a>
+  <a href="">
+    <img height=230 align="center" src="april_grass.gif"  />
+  </a>
+</div>
 
 
 <h1></h1>
